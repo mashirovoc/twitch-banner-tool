@@ -10,7 +10,7 @@ Twitch API を使用して、ゲームの公式ボックスアート（バナー
 
 ## 🛠 使い方
 
-1. [Releases](https://github.com/あなたのユーザー名/リポジトリ名/releases) ページから最新の `.exe` をダウンロードします。
+1. [Releases](https://github.com/mashirovoc/twitch-banner-tool/releases) ページから最新の `.exe` をダウンロードします。
 2. [Twitch Developer Console](https://dev.twitch.tv/console) でアプリを登録し、`Client ID` と `Client Secret` を取得します。
 3. アプリを起動し、取得した ID/Secret と検索したいゲーム名を入力して実行してください。
 
@@ -20,7 +20,7 @@ Twitch API を使用して、ゲームの公式ボックスアート（バナー
 
 ```bash
 # リポジトリをクローン
-git clone [https://github.com/あなたのユーザー名/twitch-banner-tool.git](https://github.com/mashirovoc/twitch-banner-tool.git)
+git clone [https://github.com/mashirovoc/twitch-banner-tool.git](https://github.com/mashirovoc/twitch-banner-tool.git)
 
 # 依存関係のインストール
 npm install
